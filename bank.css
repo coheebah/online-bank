@@ -1,0 +1,169 @@
+body {
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: center;
+    font-family: Arial, sans-serif;
+    background: rgb(209, 209, 160);
+  }
+  
+  .image1{
+    width: 200px;
+    border-radius: 50%;
+     height: 200px;
+    
+     box-shadow: #e23333;
+  }
+  .h1 {
+    text-align: center;
+  }
+
+  .logo-section{
+    background: rgb(177, 94, 94);
+    display: flex;
+    width: 99%;
+    padding: 5px;
+    border: 20px;
+   
+  }
+  .settings{
+    width: 50px;
+    height: 40px;
+    border-radius: 50%;
+    padding: 10px;
+    border: 5px;
+        
+  }
+  .trans-button{
+    width: 80px;
+    height:50px;
+    background: rgb(141, 51, 51);
+    margin-left: 20px;
+    margin-top: 10px;
+    border-radius: 30px;
+    font-size: 15px;
+    font-family: "popping" sans-serif;
+ 
+
+
+  }
+ 
+  .transaction-section{
+    background: rgb(137, 137, 190);
+    width: 100%;
+    height: 60vh;
+   
+  }
+  
+  .holdy{
+    display: flex;
+  
+  }
+
+.balance{
+    color: green;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+  .dep{
+    margin-top: 50px;
+    background:#e23333;
+    /* margin-left: 40%; */
+    width: 170px;
+    height: 60px;
+    font-size: 20px;
+    font-family: "popping" sans-serif;
+    border-radius: 40px;
+    
+  }
+
+  .dep:hover{
+    background: green;
+    color: white;
+    transition: 0.8s
+  }
+ 
+
+
+
+
+  .with{
+    border-radius: 40px;
+    background: #e23333;
+    width: 170px;
+    height: 60px;
+    /* margin-left: 40%; */
+    font-size: 20px;
+    font-family: "popping" sans-serif;
+    
+  }
+
+  .with:hover{
+    background: green;
+    color: white;
+    transition: 0.8s
+  }
+  .trans{
+    border-radius: 40px;
+    background: #e23333;
+    width: 170px;
+    height: 60px;
+    /* margin-left: 40%; */
+    font-size: 20px;
+    font-family: "popping" sans-serif;
+    
+  }
+
+  .trans:hover{
+    background: green;
+    color: white;
+    transition: 0.8s
+  }
+
+
+
+  div {
+    margin: 20px;
+  }
+  
+  .button {
+    margin-right: 10px;
+  }
+
+
+
+.student1{
+width: 250px;
+height: 350px;
+margin-right: 10rem;
+margin-left: 5rem;
+}
+.student2{
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    margin-right: 10rem;
+    margin-left: 10rem;
+}
+
+.student3{
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    margin-left: 10rem;
+   
+}
+
+  .footer{
+    background-color: black;
+    color: white;
+    font-size: 10px;
+    height: 3rem;
+    margin-top: -19.5px;
+    margin-left: 20px;
+    width: 100%;
+    text-align: center;
+    justify-content: center;
+  }
